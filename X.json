@@ -9,7 +9,7 @@
 {"key":"csp_XBPQ_鸭奈飞","name":"鸭奈飞（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/sub/鸭奈飞.json"},
 {"key": "电影先生","name": "️电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://nctv.top/tv/sub/电影先生.json"},
 {"key":"胖虎影视","name":"胖虎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/sub/胖虎影视.json"},
-{"key":"七月","name":"七月影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nctv.top/tv/sub/七月影视.json"},
+{"key":"七月","name":"七月影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/wugufd/yc/refs/heads/main/%E4%B8%83%E6%9C%88%E5%BD%B1%E8%A7%86.json"},
 {"key":"热播","name":"热播","type":3,"api":"csp_TTian","jar":"http://nctv.top/tv/jar/spider.jar","ext":"http://v.rbotv.cn"},
 {"key":"追剧","name":"追剧","type":3,"api":"csp_TTian","jar":"http://nctv.top/tv/jar/spider.jar","ext":"http://app.kzjtv.com"},
 {"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","jar":"http://nctv.top/tv/jar/XYQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nctv.top/tv/sub/电影牛.json"},
